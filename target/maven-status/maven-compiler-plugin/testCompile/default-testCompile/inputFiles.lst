@@ -1,0 +1,9 @@
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/PagoyaApplicationTests.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/integration/account/AccountControllerIntegrationTest.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/integration/transfer/TransferControllerIntegrationTest.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/unit/account/AccountServiceTest.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/unit/customer/CurrentCustomerServiceTest.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/unit/customer/CustomerServiceTest.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/unit/shared/MaskUtilTest.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/unit/transfer/ExternalTransferValidatorTest.java
+/Users/henryantoniomendozapuerta/Downloads/pagoya/src/test/java/com/hampcode/pagoya/unit/transfer/TransferServiceTest.java

@@ -1,0 +1,8 @@
+com/hampcode/pagoya/ai/dto/ChatResponse.class
+com/hampcode/pagoya/ai/dto/ReportResponse.class
+com/hampcode/pagoya/ai/dto/ChatRequest.class
+com/hampcode/pagoya/ai/service/SupportService.class
+com/hampcode/pagoya/ai/config/AiConfig.class
+com/hampcode/pagoya/ai/controller/AiController.class
+com/hampcode/pagoya/ai/dto/ReportInsight.class
+com/hampcode/pagoya/ai/tool/TransferTool.class
